@@ -1,0 +1,39 @@
+..\obj\nbiot.o: ..\NBIOT\nbiot.c
+..\obj\nbiot.o: ..\NBIOT\nbiot.h
+..\obj\nbiot.o: ..\SYSTEM\sys\sys.h
+..\obj\nbiot.o: ..\APP\stm32f10x.h
+..\obj\nbiot.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\nbiot.o: D:\MDK-ARM 5.11\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\nbiot.o: ..\APP\system_stm32f10x.h
+..\obj\nbiot.o: ..\APP\stm32f10x_conf.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\nbiot.o: ..\APP\stm32f10x.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+..\obj\nbiot.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\nbiot.o: ..\SYSTEM\usart\usart.h
+..\obj\nbiot.o: D:\MDK-ARM 5.11\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\nbiot.o: ..\SYSTEM\delay\delay.h
+..\obj\nbiot.o: ..\HARDWARE\LED\led.h
+..\obj\nbiot.o: ..\HARDWARE\KEY\key.h
+..\obj\nbiot.o: D:\MDK-ARM 5.11\ARM\ARMCC\bin\..\include\string.h
+..\obj\nbiot.o: ..\HARDWARE\USART2\usart2.h
